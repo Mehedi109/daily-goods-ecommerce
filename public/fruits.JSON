@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Grapes",
+        "img": "https://i.ibb.co/m92HCb8/grape-229112122.jpg",
+        "quantity": 1,
+        "previousPrice": 200,
+        "recentPrice": 180
+    },
+    {
+        "id": 2,
+        "name": "Orange",
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/51mEVhwXGKL._AC_US218_.jpg",
+        "img": "https://i.ibb.co/n8JptKB/10997731.jpg",
+        "quantity": 1,
+        "previousPrice": 200,
+        "recentPrice": 180
+    },
+    {
+        "id": 3,
+        "name": "Lotkon",
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg",
+        "img": "https://i.ibb.co/KKVDddx/Raw-picture-Id-61087-q-low-v-1-m-400-m-1600.jpg",
+        "quantity": 1,
+        "previousPrice": 200,
+        "recentPrice": 180
+    },
+    {
+        "id": 4,
+        "name": "Ripe Apple",
+        "img": "https://i.ibb.co/mvgfyqF/photo-1606757389723-23c4bf501fba-ixlib-rb-1-2.jpg",
+        "quantity": 1,
+        "previousPrice": 200,
+        "recentPrice": 180
+    },
+    {
+        "id": 5,
+        "name": "Pineapple",
+        "img": "https://i.ibb.co/zXj2hgn/photo-1546556928-174b0dbfee44-ixlib-rb-1-2.jpg",
+        "quantity": 1,
+        "previousPrice": 200,
+        "recentPrice": 180
+    },
+    {
+        "id": 6,
+        "name": "Red Berry",
+        "img": "https://i.ibb.co/X4bhTYg/photo-1528821154947-1aa3d1b74941-ixid-Mnwx-Mj-A3f-DB8-MHxz-ZWFy-Y2h8-Mz-Z8f-HJl-ZCUy-MGJlcn-J5f-GVuf.jpg",
+        "quantity": 1,
+        "previousPrice": 200,
+        "recentPrice": 180
+    },
+    {
+        "id": 7,
+        "name": "Strawberry",
+        "img": "https://i.ibb.co/H7xqKcH/strawberry-png-16.png",
+        "quantity": 1,
+        "previousPrice": 200,
+        "recentPrice": 180
+    },
+    {
+        "id": 8,
+        "name": "Mango",
+        "img": "https://i.ibb.co/cy3kMJV/Mango.jpg",
+        "quantity": 1,
+        "previousPrice": 200,
+        "recentPrice": 180
+    },
+    {
+        "id": 9,
+        "name": "Banana",
+        "imgOld": "https://i.ibb.co/TRkRb23/photo-1603052875302-d376b7c0638a-ixlib-rb-1-2.jpg",
+        "img": "https://i.ibb.co/6mhSMG1/A-bunch-of-bananas-Clipping-path-included.jpg",
+        "quantity": 1,
+        "previousPrice": 200,
+        "recentPrice": 180
+    },
+    {
+        "id": 10,
+        "name": "Avocado",
+        "imgOld": "https://i.ibb.co/1KtmGHp/photo-1583029901628-8039767c7ad0-ixlib-rb-1-2.jpg",
+        "img": "https://i.ibb.co/n7FS4J8/http-www-stefstef-nl-banners2-vegetables-jpg.jpg",
+        "quantity": 1,
+        "previousPrice": 200,
+        "recentPrice": 180
+    },
+    {
+        "id": 11,
+        "name": "Watermelon",
+        "img": "https://i.ibb.co/jDYFbx4/photo-1582281298055-e25b84a30b0b-ixlib-rb-1-2.jpg",
+        "quantity": 1,
+        "previousPrice": 200,
+        "recentPrice": 180
+    },
+    {
+        "id": 12,
+        "name": "Raspberry",
+        "img": "https://i.ibb.co/s9ZHMnB/photo-1615484476889-2830f980a5e3-crop-entropy-cs-tinysrgb-fit-max-fm-jpg-ixid-Mnwx-Mj-A3f-DB8-MXxhb.jpg",
+        "quantity": 1,
+        "previousPrice": 200,
+        "recentPrice": 180
+    },
+    {
+        "id": 13,
+        "name": "Garnet",
+        "img": "https://i.ibb.co/BK3js3y/photo-1615485925600-97237c4fc1ec-crop-entropy-cs-tinysrgb-fit-max-fm-jpg-ixid-Mnwx-Mj-A3f-DB8-MXxhb.jpg",
+        "quantity": 1,
+        "previousPrice": 200,
+        "recentPrice": 180
+    }
+]
