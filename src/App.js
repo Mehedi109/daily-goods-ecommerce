@@ -5,6 +5,7 @@ import Header from './components/Shared/Header/Header';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Fruits from './components/Goods/Fruits/Fruits';
 import Home from './components/Home/Home/Home';
+import Login from './components/Login/Login';
 
 function App() {
   return (
@@ -20,6 +21,9 @@ function App() {
           </Route>
           <Route path="/fruits">
             <Fruits></Fruits>
+          </Route>
+          <Route path="/login">
+            <Login></Login>
           </Route>
         </Switch>
       </Router>
